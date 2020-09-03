@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'CarinoSansBold';
+    src: url('./fonts/CarinoSansBold.eot?#iefix') format('embedded-opentype'), url('./fonts/CarinoSansBold.woff') format('woff'), url('./fonts/CarinoSansBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
